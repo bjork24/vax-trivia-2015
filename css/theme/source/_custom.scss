@@ -1,0 +1,55 @@
+%clearfix {
+  *zoom: 1;
+  &:before, &:after {
+    content: " ";
+    display: table;
+  }
+  &:after { 
+   clear: both;
+  }
+}
+
+.reveal {
+  h3 {
+    color: #000;
+  }
+  p {
+    color: #000;
+    line-height: 1.4;
+    font-weight: 700;
+  }
+  .slides {
+    text-align: left;
+  }
+  ol,
+  ul {
+    @extend %clearfix;
+    margin-left: 1.3em;
+    color: #000;
+    line-height: 1.4;
+    font-weight: 700;
+    &.float {
+      float: left;
+      margin-left: 2em;
+      &:first-of-type {
+        margin-left: 1.3em;
+      }
+    }
+    .answer {
+      color: #E4FF59;
+    }
+  }
+  section img {
+    margin: 0 auto;
+    display: block;
+  }
+  .photos {
+    img {
+      width: 50%;
+      margin: 0;
+    }
+    p {
+      margin-top: .5em;
+    }
+  }
+}
