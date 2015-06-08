@@ -14,9 +14,12 @@
     color: #000;
   }
   p {
-    color: #000;
+    color: #222;
     line-height: 1.4;
     font-weight: 700;
+    &.light {
+      color: #EEE;
+    }
   }
   .slides {
     text-align: left;
