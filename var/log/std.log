@@ -1802,3 +1802,75 @@ info: socket.io started
 [32m>> Client count: 1[39m
 [33m>> Host authed.[39m
 [34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[32m>> 16:38:07 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[32m>> 16:40:46 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":7,"v":0},"zoom":null,"is_paused":false}[39m
