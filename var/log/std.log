@@ -990,3 +990,815 @@ info: socket.io started
 [32m>> Client count: 1[39m
 [33m>> Host authed.[39m
 [34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+info: socket.io started
+[32m>> Load module: NT.App:./app/app[39m
+[36m*** NOTELL 0.0.1 ***
+>> Node version: v0.10.34
+>> Start at port: 2424[39m
+[36m>> Took 286ms to startup.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:12:57 Watch: assets/ejs/head.ejs[39m
+[34m>> Watch: assets/ejs/head.ejs[39m
+[32m>> 15:12:57 Watch: assets/ejs/foot.ejs[39m
+[34m>> Watch: assets/ejs/foot.ejs[39m
+[32m>> 15:12:57 Watch: assets/ejs/assets.ejs[39m
+[34m>> Watch: assets/ejs/assets.ejs[39m
+[32m>> 15:12:57 Watch: app/client/ejs/assets.ejs[39m
+[34m>> Watch: app/client/ejs/assets.ejs[39m
+[32m>> 15:12:57 Watch: usr/trivia.ejs[39m
+[34m>> Watch: usr/trivia.ejs[39m
+[32m>> 15:12:57 Watch: app/client/ejs/home.ejs[39m
+[34m>> Watch: app/client/ejs/home.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> 15:12:57 Watch: assets/css/fonts.styl[39m
+[34m>> Watch: assets/css/fonts.styl[39m
+[32m>> 15:12:58 Watch: assets/css/app.styl[39m
+[34m>> Watch: assets/css/app.styl[39m
+[32m>> 15:12:58 Watch: app/client/css/home.styl[39m
+[34m>> Watch: app/client/css/home.styl[39m
+[32m>> 15:12:58 Watch: app/client/css/custom.styl[39m
+[34m>> Watch: app/client/css/custom.styl[39m
+[32m>> 15:12:58 Watch: assets/js/jquery.helpers.coffee[39m
+[34m>> Watch: assets/js/jquery.helpers.coffee[39m
+[32m>> 15:12:58 Watch: assets/js/_.helpers.coffee[39m
+[34m>> Watch: assets/js/_.helpers.coffee[39m
+[32m>> 15:12:58 Watch: assets/js/app.coffee[39m
+[34m>> Watch: assets/js/app.coffee[39m
+[32m>> 15:12:58 Watch: assets/langs/en.coffee[39m
+[34m>> Watch: assets/langs/en.coffee[39m
+[32m>> 15:12:58 Watch: app/client/js/guest.coffee[39m
+[34m>> Watch: app/client/js/guest.coffee[39m
+[32m>> 15:12:58 Watch: app/client/js/host.coffee[39m
+[34m>> Watch: app/client/js/host.coffee[39m
+[32m>> 15:12:58 Watch: app/client/js/notell.coffee[39m
+[34m>> Watch: app/client/js/notell.coffee[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:20:09 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:23:32 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:23:51 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:25:37 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:30:55 Reload: assets/css/app.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> 15:30:55 Reload: assets/ejs/foot.ejs[39m
+[32m>> 15:30:55 Reload: assets/ejs/head.ejs[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:30:58 Reload: assets/js/app.coffee[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> 15:30:59 Reload: assets/ejs/assets.ejs[39m
+[32m>> 15:30:59 Reload: assets/css/fonts.styl[39m
+[32m>> 15:30:59 Reload: assets/langs/en.coffee[39m
+[32m>> 15:30:59 Reload: app/client/ejs/home.ejs[39m
+[32m>> 15:30:59 Reload: app/client/css/home.styl[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:31:19 Reload: app/client/ejs/assets.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> 15:31:19 Reload: app/client/js/host.coffee[39m
+[32m>> 15:31:20 Reload: app/client/js/guest.coffee[39m
+[32m>> 15:31:20 Reload: assets/js/_.helpers.coffee[39m
+[32m>> 15:31:20 Reload: app/client/js/notell.coffee[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:31:21 Reload: assets/js/jquery.helpers.coffee[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:36:47 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:37:44 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:37:56 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:38:42 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 15:38:49 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:42:35 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:42:47 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:43:36 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:43:55 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:44:09 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:44:16 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:44:40 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:44:45 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:44:59 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:45:06 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:45:10 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:45:15 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:45:22 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:46:15 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:46:48 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:50:11 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:50:41 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[32m>> 15:51:05 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:52:20 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> 15:52:20 Watch: assets/ejs/404.ejs[39m
+[34m>> Watch: assets/ejs/404.ejs[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:53:23 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:53:28 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:53:33 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:53:38 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:54:21 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:55:04 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:56:14 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:56:33 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 15:59:03 Reload: app/client/js/host.coffee[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:00:21 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:01:22 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:01:32 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:01:46 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":6,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:02:08 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[32m>> 16:02:47 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:02:54 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:03:04 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:03:27 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:03:58 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:09:24 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:10:25 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:10:31 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:11:05 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:11:30 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[32m>> 16:11:52 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[32m>> 16:15:28 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[32m>> 16:15:56 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[32m>> 16:16:25 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[32m>> 16:17:32 Reload: app/client/css/custom.styl[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[32m>> 16:18:26 Reload: usr/trivia.ejs[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[32m>> 16:19:23 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[31m>> A GUEST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[32m>> 16:20:35 Reload: app/client/js/notell.coffee[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[32m>> A connected.[39m
+[32m>> Client count: 2[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":5},"zoom":null,"is_paused":false}[39m
+[31m>> A GUEST disconnected.[39m
+[34m>> State changed: {"indices":{"h":4,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[32m>> 16:29:16 Reload: app/client/css/custom.styl[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[32m>> 16:30:14 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[32m>> 16:30:48 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[32m>> 16:31:54 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m
+[32m>> 16:32:52 Reload: usr/trivia.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":9},"zoom":null,"is_paused":false}[39m

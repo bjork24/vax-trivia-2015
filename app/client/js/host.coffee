@@ -155,6 +155,7 @@ class NT.Host
 		}, (is_succeed) =>
 			if is_succeed
 				@logged_in()
+				$('body').addClass('host')
 			else
 				_.notify {
 					info: _.l('Wrong Password')

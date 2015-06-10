@@ -51,6 +51,8 @@ class NT.Notell
 			history: true
 			keyboard: true
 			touch: true
+			width: 1100
+			height: 800
 
 			theme: Reveal.getQueryHash().theme
 			transition: Reveal.getQueryHash().transition or 'default'
