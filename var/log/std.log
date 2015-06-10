@@ -873,3 +873,120 @@ info: socket.io started
 [34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
 [34m>> State changed: {"indices":{"h":4,"v":10},"zoom":null,"is_paused":false}[39m
 [34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+info: socket.io started
+[32m>> Load module: NT.App:./app/app[39m
+[36m*** NOTELL 0.0.1 ***
+>> Node version: v0.10.34
+>> Start at port: 2424[39m
+[36m>> Took 314ms to startup.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[32m>> 14:56:19 Watch: assets/ejs/head.ejs[39m
+[34m>> Watch: assets/ejs/head.ejs[39m
+[32m>> 14:56:19 Watch: assets/ejs/foot.ejs[39m
+[34m>> Watch: assets/ejs/foot.ejs[39m
+[32m>> 14:56:19 Watch: assets/ejs/assets.ejs[39m
+[34m>> Watch: assets/ejs/assets.ejs[39m
+[32m>> 14:56:19 Watch: app/client/ejs/assets.ejs[39m
+[34m>> Watch: app/client/ejs/assets.ejs[39m
+[32m>> 14:56:19 Watch: usr/trivia.ejs[39m
+[34m>> Watch: usr/trivia.ejs[39m
+[32m>> 14:56:19 Watch: app/client/ejs/home.ejs[39m
+[34m>> Watch: app/client/ejs/home.ejs[39m
+[31m>> A HOST disconnected.[39m
+[32m>> 14:56:19 Watch: assets/css/fonts.styl[39m
+[34m>> Watch: assets/css/fonts.styl[39m
+[32m>> 14:56:19 Watch: app/client/css/home.styl[39m
+[34m>> Watch: app/client/css/home.styl[39m
+[32m>> 14:56:19 Watch: assets/css/app.styl[39m
+[34m>> Watch: assets/css/app.styl[39m
+[32m>> 14:56:19 Watch: app/client/css/custom.styl[39m
+[34m>> Watch: app/client/css/custom.styl[39m
+[32m>> 14:56:19 Watch: assets/js/jquery.helpers.coffee[39m
+[34m>> Watch: assets/js/jquery.helpers.coffee[39m
+[32m>> 14:56:20 Watch: assets/js/_.helpers.coffee[39m
+[34m>> Watch: assets/js/_.helpers.coffee[39m
+[32m>> 14:56:20 Watch: assets/js/app.coffee[39m
+[34m>> Watch: assets/js/app.coffee[39m
+[32m>> 14:56:20 Watch: assets/langs/en.coffee[39m
+[34m>> Watch: assets/langs/en.coffee[39m
+[32m>> 14:56:20 Watch: app/client/js/guest.coffee[39m
+[34m>> Watch: app/client/js/guest.coffee[39m
+[32m>> 14:56:20 Watch: app/client/js/host.coffee[39m
+[34m>> Watch: app/client/js/host.coffee[39m
+[32m>> 14:56:20 Watch: app/client/js/notell.coffee[39m
+[34m>> Watch: app/client/js/notell.coffee[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":3},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":4},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":5},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":6},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":7},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":8},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":9},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":10},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":1},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":2},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":1},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":5,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":4,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":3,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":2,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":1,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+info: socket.io started
+[32m>> Load module: NT.App:./app/app[39m
+[36m*** NOTELL 0.0.1 ***
+>> Node version: v0.10.34
+>> Start at port: 2424[39m
+[36m>> Took 324ms to startup.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m

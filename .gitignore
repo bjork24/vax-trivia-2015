@@ -1,6 +1,14 @@
+### Common ###
+
+!.gitkeep
+*~
+*.swp
 .DS_Store
-.svn
-log/*.log
-tmp/**
-node_modules/
-bower_components/
+
+### App ###
+
+node_modules
+bower_components
+log
+usr
+var
