@@ -1874,3 +1874,11 @@ info: socket.io started
 [34m>> State changed: {"indices":{"h":6,"v":9},"zoom":null,"is_paused":false}[39m
 [34m>> State changed: {"indices":{"h":6,"v":10},"zoom":null,"is_paused":false}[39m
 [34m>> State changed: {"indices":{"h":7,"v":0},"zoom":null,"is_paused":false}[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A GUEST disconnected.[39m
+[31m>> A HOST disconnected.[39m
+[32m>> A connected.[39m
+[32m>> Client count: 1[39m
+[33m>> Host authed.[39m
+[34m>> State changed: {"indices":{"h":0,"v":0},"zoom":null,"is_paused":false}[39m
+[31m>> A HOST disconnected.[39m
